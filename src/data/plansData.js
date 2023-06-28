@@ -11,9 +11,9 @@ export const plansData = [
       </svg>
     ),
     name: "BASIC PLAN",
-    price: "1500",
+    price: "500",
     features: [
-      "2 dias de ejercicio por semana",
+      "por un dia",
       "Consultas a los Entrenadores",
       "Acceso al gimnasio",
     ],
@@ -30,9 +30,9 @@ export const plansData = [
       </svg>
     ),
     name: "PREMIUM PLAN",
-    price: "2500",
+    price: "3000",
     features: [
-      "4 dias de ejercicio por semana",
+      "3 dias a la semana",
       "Consultas a los Entrenadores",
       "Acceso al gimnasio",
     ],
@@ -49,9 +49,9 @@ export const plansData = [
       </svg>
     ),
     name: "PRO PLAN",
-    price: "3800",
+    price: "4000",
     features: [
-      "6 dias de ejercicio por semana",
+      "Pase libre por mes",
       "Consultas a los Entrenadores mas plan de Entrenamiento",
       "Acceso al gimnasio",
     ],
