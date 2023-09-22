@@ -70,8 +70,8 @@ const Hero = () => {
         </div>
         {/* Botones */}
         <div className="hero-buttons">
-          <buttons className="btn">Empezar</buttons>
-          <buttons className="btn">Aprende más</buttons>
+          <buttons className="btn" onClick={redirectToCode}>Empezar</buttons>
+          <buttons className="btn" onClick={redirectToCode}>Aprende más</buttons>
         </div>
       </div>
       <div className="right-h">

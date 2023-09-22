@@ -1,9 +1,9 @@
 import React from "react";
 import "./Reasons.css";
-import image1 from "../../assets/image1.png";
-import image2 from "../../assets/image2.png";
-import image3 from "../../assets/image3.png";
-import image4 from "../../assets/image4.png";
+import img1 from "../../assets/img1.jfif";
+import img2 from "../../assets/img2.jfif";
+import img3 from "../../assets/img3.jfif";
+import img4 from "../../assets/img4.jfif";
 import tick from "../../assets/tick.png";
 import nb from "../../assets/nb.png";
 import adidas from "../../assets/adidas.png";
@@ -13,10 +13,10 @@ const Reasons = () => {
     <div className="Reasons" id="reasons">
       {/*Imagenes de Prueba*/}
       <div className="left-r">
-        <img src={image1} alt="" />
-        <img src={image2} alt="" />
-        <img src={image3} alt="" />
-        <img src={image4} alt="" />
+        <img src={img1} alt="" />
+        <img src={img2} alt="" />
+        <img src={img3} alt="" />
+        <img src={img4} alt="" />
       </div>
       <div className="right-r">
         <span>Algunas razones</span>

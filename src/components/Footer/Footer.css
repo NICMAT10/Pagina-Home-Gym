@@ -49,3 +49,19 @@
   background: rgb(225, 115, 0);
 }
 
+.copyright {
+  text-align: center;
+  font-size: 14px;
+  color: var(--lightgray);
+  margin-top: 5px;
+  font-size: medium;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.center-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 1rem; /* Ajusta el margen superior según sea necesario */
+}
